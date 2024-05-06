@@ -12,7 +12,7 @@
    `cd frontend`<br>
 4. Install `node_modules` by running `npm install` inside the `frontend` directory.
 5. Run `npm start` to launch the web application at [port 3000 on your local server](http://localhost:3000).
-6. Follow steps 1. and 2. in the above instructions for how to use the deployed web application.
+6. Follow steps `1.` and `2.` in the above instructions for how to use the deployed web application.
 
 ## Backend
 To view the data stored in the backend, visit [deployed backend](https://keeperappbackend-itaz.onrender.com/notes). The same data can be viewed at `localhost:5000` through the following instructions:
