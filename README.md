@@ -5,16 +5,17 @@
 3. Refresh the page and see that changes have been saved.
 
 ## Instructions (local)
-1. Clone this repository to a local directory.
-2. Using terminal or another command line environment, navigate inside the new root directory, then inside the `frontend` directory. The commands will look something like:<br>`cd FullStackFinal`<br>
+1. Open a terminal or command line environment.
+2. Clone this repository to a local directory using the command `git clone https://github.com/rishabhg19/FullStackFinal.git`.
+3. Navigate inside the new root directory, then inside the `frontend` directory. The commands will look something like:<br>`cd FullStackFinal`<br>
    `cd frontend`<br>
-3. Install `node_modules` by running `npm install` inside the `frontend` directory.
-4. Run `npm start` to launch the web application at [port 3000 on your local server](http://localhost:3000).
+4. Install `node_modules` by running `npm install` inside the `frontend` directory.
+5. Run `npm start` to launch the web application at [port 3000 on your local server](http://localhost:3000).
 
 ## Backend
 To view the data stored in the backend, visit [deployed backend](https://keeperappbackend-itaz.onrender.com/notes). The same data can be viewed at `localhost:5000` through the following instructions:
 1. Make sure to have this repository cloned into a local directory.
-2. Using terminal or another command line environment, navigate inside the new root directory, then inside the `backend` directory. The commands will look something like:<br>`cd FullStackFinal`<br>
+2. Navigate inside the new root directory, then inside the `backend` directory. The commands will look something like:<br>`cd FullStackFinal`<br>
    `cd backend`<br>
 3. Install `node_modules` by running `npm insall` inside the `frontend` directory.
 4. Run `npm start` to view the current state of backend data at [port 5000 on your local server](http://localhost:5000/notes).
