@@ -14,6 +14,10 @@
 5. Run `npm start` to launch the web application at [port 3000 on your local server](http://localhost:3000).
 6. Follow steps `1.` and `2.` in the above instructions for how to use the deployed web application.
 
+#### The page should look like below -
+<img width="1440" alt="Screen Shot 2024-05-06 at 6 05 22 PM" src="https://github.com/rishabhg19/FullStackFinal/assets/70454763/43cfc9ef-345f-4a49-bd33-315f5ee852c7">
+
+
 ## Backend
 To view the data stored in the backend, visit [deployed backend](https://keeperappbackend-itaz.onrender.com/notes). The same data can be viewed at `localhost:5000` through the following instructions:
 1. Make sure to have this repository cloned into a local directory.
@@ -21,3 +25,7 @@ To view the data stored in the backend, visit [deployed backend](https://keepera
    `cd backend`<br>
 3. Install `node_modules` by running `npm insall` inside the `frontend` directory.
 4. Run `npm start` to view the current state of backend data at [port 5000 on your local server](http://localhost:5000/notes).
+
+#### The page should look like below -
+The last entry in the JSON is highlighted to show that the note is solely for the purposes of this `README`. Feel free to delete that note while using this application.
+<img width="1440" alt="Screen Shot 2024-05-06 at 6 05 35 PM" src="https://github.com/rishabhg19/FullStackFinal/assets/70454763/f045b336-7a40-42c2-b21c-7d533c9afd8a">
