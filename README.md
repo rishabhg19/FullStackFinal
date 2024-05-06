@@ -29,3 +29,8 @@ To view the data stored in the backend, visit [deployed backend](https://keepera
 #### The page should look like below -
 The last entry in the JSON is highlighted to show that the note is solely for the purposes of this `README`. Feel free to delete that note while using this application.
 <img width="1440" alt="Screen Shot 2024-05-06 at 6 05 35 PM" src="https://github.com/rishabhg19/FullStackFinal/assets/70454763/f045b336-7a40-42c2-b21c-7d533c9afd8a">
+
+### Database
+Below is the state of the MongoDB collection that is connected to this app. At the time of writing this `README`, the database has five entries total, as shown.
+<img width="927" alt="Screen Shot 2024-05-06 at 6 10 36 PM" src="https://github.com/rishabhg19/FullStackFinal/assets/70454763/e5fc61d7-8c1e-440d-b259-76ebf2c9645d">
+
