@@ -26,7 +26,7 @@
 
 
 ## Backend
-To view the data stored in the backend, visit [deployed backend](https://keeperappbackend-itaz.onrender.com/notes). The same data can be viewed at `localhost:5000` through the following instructions:
+To view the data stored in the backend, visit [deployed backend](https://keeperappbackend-itaz.onrender.com/notes). The same data can be viewed at `localhost:5000` through the following instructions - 
 1. Make sure to have this repository cloned into a local directory.
 2. Navigate inside the new root directory, then inside the `backend/` directory. The commands will look something like:<br>`$ cd FullStackFinal`<br>
    `$ cd backend`<br>
