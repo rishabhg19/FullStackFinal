@@ -17,8 +17,8 @@
    `$ cd frontend`<br>
    Alternatively, use just one command <br>
    `$ cd FullStackFinal/frontend`<br>
-4. Install `node_modules` by running `npm install` inside the `frontend` directory.
-5. Run `npm start` to launch the web application at [port 3000 on your local server](http://localhost:3000).
+4. Install `node_modules` by running `$ npm install` inside the `frontend` directory.
+5. Run `$ npm start` to launch the web application at [port 3000 on your local server](http://localhost:3000).
 6. Follow steps `1.` and `2.` in the above instructions for how to use the deployed web application.
 
 #### The page should look like below -
@@ -32,8 +32,8 @@ To view the data stored in the backend, visit [deployed backend](https://keepera
    `$ cd backend`<br>
    Alternatively, use just one command <br>
    `$ cd FullStackFinal/backend`<br>
-3. Install `node_modules` by running `npm install` inside the `frontend` directory.
-4. Run `npm start` to view the current state of backend data at [port 5000 on your local server](http://localhost:5000/notes).
+3. Install `node_modules` by running `$ npm install` inside the `frontend` directory.
+4. Run `$ npm start` to view the current state of backend data at [port 5000 on your local server](http://localhost:5000/notes).
 
 #### The page should look like below -
 The last entry in the JSON is highlighted to show that the note is solely for the purposes of this `README`. Feel free to delete that note while using this application.
