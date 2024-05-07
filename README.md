@@ -1,5 +1,10 @@
 # Final Project - Note Keeper App with Backend for COMS W3102 Full Stack Development
 ## Frontend
+
+### Website Demo and Code Overview
+[Watch video](https://www.youtube.com/watch?v=WG6nyjOz-_w)
+
+
 ### Instructions (web) -- SUGGESTED FOR EASE OF USE
 1. Visit [deployed frontend](https://full-stack-final-gilt.vercel.app/).
 2. Observe any notes that are already saved, and feel free to add new notes or delete any notes.
