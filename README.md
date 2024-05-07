@@ -32,7 +32,7 @@ To view the data stored in the backend, visit [deployed backend](https://keepera
    `$ cd backend`<br>
    Alternatively, use just one command <br>
    `$ cd FullStackFinal/backend`<br>
-3. Install `node_modules` by running `npm insall` inside the `frontend` directory.
+3. Install `node_modules` by running `npm install` inside the `frontend` directory.
 4. Run `npm start` to view the current state of backend data at [port 5000 on your local server](http://localhost:5000/notes).
 
 #### The page should look like below -
