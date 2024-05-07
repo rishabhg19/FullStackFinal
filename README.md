@@ -12,7 +12,7 @@
 
 ### Instructions (local server)
 1. Open a terminal or command line environment.
-2. Clone this repository to a local directory using the command `git clone https://github.com/rishabhg19/FullStackFinal.git`.
+2. Clone this repository to a local directory using the command `$ git clone https://github.com/rishabhg19/FullStackFinal.git`.
 3. Navigate inside the new root directory, then inside the `frontend/` directory. The commands will look something like:<br>`$ cd FullStackFinal`<br>
    `$ cd frontend`<br>
    Alternatively, use just one command <br>
