@@ -7,7 +7,7 @@
 
 ### Instructions (web) -- SUGGESTED FOR EASE OF USE
 1. Visit [deployed frontend](https://full-stack-final-gilt.vercel.app/).
-2. Observe any notes that are already saved, and feel free to add new notes or delete any notes.
+2. Wait up to 30 seconds for notes from the database to initially load. Observe any notes that are already saved, and feel free to add new notes or delete any notes.
 3. Refresh the page and see that changes have been saved.
 
 ### Instructions (local server)
